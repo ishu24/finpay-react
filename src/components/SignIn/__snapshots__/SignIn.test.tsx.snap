@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignIn matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    style="width:375px;height:812px;background-color:rgb(54,41,183);padding:0px;"
+  >
+    <div
+      style="background-color:rgb(255,255,255);border-radius:30px 30px 0px 0px;margin-top:108px;height:704px;padding:24px;"
+    >
+      <h5
+        style="font-weight:600;"
+      >
+        Welcome Back
+      </h5>
+      <span
+        style="margin-top:8px;color:rgba(0,0,0,0.87);display:block;"
+      >
+        Hello there, sign in to continue
+      </span>
+      <div
+        style="display:flex;justify-content:center;margin-top:48px;"
+      >
+        <div
+          aria-hidden="" 
+          style="width:213px;height:165px;background-color:rgb(243,243,243);border-radius:8px;"
+        />
+      </div>
+      <input
+        placeholder="Text input"
+        style="margin-top:40px;border-radius:8px;"
+      />
+      <input
+        placeholder="Password"
+        type="password"
+        style="margin-top:24px;border-radius:8px;"
+      />
+      <button
+        disabled=""
+        style="margin-top:32px;border-radius:8px;"
+      >
+        Sign in
+      </button>
+      <div
+        style="display:flex;justify-content:space-between;align-items:center;margin-top:16px;"
+      >
+        <p
+          style=""
+        >
+          Don't have an account? 
+        </p>
+        <button
+          style=""
+        >
+          Sign Up
+        </button>
+      </div>
+      <span
+        style="margin-top:16px;color:rgba(0,0,0,0.6);"
+      >
+        Forgot your password ?
+      </span>
+    </div>
+    <div
+      style="position:absolute;top:0;left:0;width:100%;height:40px;display:flex;align-items:center;padding-left:24px;"
+    >
+      <svg
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path d="M..." />
+      </svg>
+      <h6
+        style="color:rgb(255,255,255);padding-left:16px;"
+      >
+        Sign in
+      </h6>
+    </div>
+    <div
+      style="position:absolute;bottom:0;width:100%;height:34px;background-color:rgb(255,255,255);"
+    />
+  </div>
+</DocumentFragment>
+`;
